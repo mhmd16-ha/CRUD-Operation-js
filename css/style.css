@@ -9,6 +9,6 @@ body {
     padding: 10px;
     border-radius: 20px;
 }
-h1{
+h1,label{
     color: white;
 }
